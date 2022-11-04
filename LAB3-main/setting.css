@@ -1,0 +1,20 @@
+table{
+  width: 300px;
+  height: 200px;
+  background-color : yellow;
+  border : 1px solid;
+}
+
+tr td{
+  border:1px solid;
+  border-color: purple;
+}
+
+.buttonclass{
+  height :30px;
+  width : 80px;
+}
+button{
+  width:80px;
+  height : 30px;
+}
